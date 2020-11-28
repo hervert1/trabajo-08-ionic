@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { clear } from 'console';
+//import { clear } from 'console';
 
 import { Insomnia } from '@ionic-native/insomnia/ngx';
 import { NavigationBar } from '@ionic-native/navigation-bar/ngx';
